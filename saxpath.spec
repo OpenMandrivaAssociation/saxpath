@@ -1,6 +1,6 @@
 Name:       saxpath
 Version:    1.0
-Release:    2.7
+Release:    2.9
 Summary:    Simple API for XPath
 
 Group:      Development/Java
