@@ -89,3 +89,11 @@ rm -rf $RPM_BUILD_ROOT
 %{_javadocdir}/*
 
 
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 1.0-2.9
++ Revision: 734235
+- rebuild
+- imported package saxpath
+
