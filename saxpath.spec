@@ -1,8 +1,9 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:       saxpath
 Version:    1.0
-Release:    8.0%{?dist}
+Release:    10.1
 Summary:    Simple API for XPath
+Group:      Development/Java
 License:    Saxpath
 URL:        http://sourceforge.net/projects/saxpath/
 Source0:    http://downloads.sourceforge.net/saxpath/saxpath-1.0.tar.gz
