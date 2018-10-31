@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:       saxpath
 Version:    1.0
-Release:    10.1
+Release:    10.2
 Summary:    Simple API for XPath
 Group:      Development/Java
 License:    Saxpath
