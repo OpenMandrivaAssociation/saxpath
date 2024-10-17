@@ -5,7 +5,7 @@ Release:    10.2
 Summary:    Simple API for XPath
 Group:      Development/Java
 License:    Saxpath
-URL:        http://sourceforge.net/projects/saxpath/
+URL:        https://sourceforge.net/projects/saxpath/
 Source0:    http://downloads.sourceforge.net/saxpath/saxpath-1.0.tar.gz
 Source1:    %{name}-%{version}.pom
 Source2:    LICENSE
